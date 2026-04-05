@@ -50,6 +50,3 @@ MVC Pattern:
 * server.js
 
 I created the library environment(Postman environment variables) and included their unique id's for easier navigation for the authors,books,students and attendant.
-
-Direct link to the Library API
-https://jauntyhadex-9250654.postman.co/workspace/Atolagbe-Adeola's-Workspace~85156089-bac6-433f-89e6-9e9fc5fe6feb/collection/53123429-ce7b658e-6518-44c0-8b42-ca5e1d53cd8d?action=share&source=copy-link&creator=53123429
